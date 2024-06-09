@@ -1,1 +1,1 @@
-my_password = '654U7jsv'
+my_password = 'your_password_here'
